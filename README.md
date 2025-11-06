@@ -2,7 +2,7 @@
 
 Meu nome é Alejandro Costa! Seja bem vindo ao meu perfil.
 
-* 🔭 **Projetos em construção:**
+🔭 **Projetos em construção:**
 
 * **[Repositório Privado] Análise de Vendas e Lucro:** Desenvolvimento de dashboards interativos para monitoramento de KPIs de vendas e identificação de tendências de lucro, utilizando **SQL** para consulta e modelagem dos dados e **Power BI** para visualização estratégica.
 * **[Repositório Privado] Análise de Risco de Crédito:** Projeto focado na prevenção de inadimplência, utilizando **Python** para análise exploratória e tratamento de dados, integrado ao **Power BI** para relatórios dinâmicos de scores de risco.
